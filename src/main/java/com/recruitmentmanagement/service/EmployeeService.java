@@ -15,6 +15,8 @@ public interface EmployeeService {
 	//get employee by username
 	public Employee getEmployeeByUsername(String username);
 	
+	//update employee by username
+	public Employee updateEmployeeByUsername(String username);
 	
 	//delete employee by id
 	public void deleteEmployee(Long employeeId);

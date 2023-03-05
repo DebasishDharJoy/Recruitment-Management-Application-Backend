@@ -72,7 +72,10 @@ public class EmployeeServiceImpl implements EmployeeService{
 		this.employeeRepository.deleteById(employeeId);
 	}
 
-
-
+	@Override
+	public Employee updateEmployeeByUsername(String username) {
+		// TODO Auto-generated method stub
+		return null;
+	}
 
 }
