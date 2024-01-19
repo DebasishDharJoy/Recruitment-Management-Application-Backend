@@ -30,6 +30,7 @@ public class RecruitmentmanagementserverApplication implements CommandLineRunner
 
 	@Override
 	public void run(String... args) throws Exception {
+		//Demo
 //		try {
 //		System.out.println("Starting code");
 //		
